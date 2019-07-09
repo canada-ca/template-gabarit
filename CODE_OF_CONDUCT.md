@@ -1,4 +1,10 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct for the [`project_name`] project
+
+Contributors to repositories hosted in [`project_name`] are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector
+
+## Values and Ethics Code for the Public Sector
+
+The [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
 
 ## Our Pledge
 
@@ -30,20 +36,89 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project, members or ESDC.
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project, members or [`department`].
 Examples of representing a project, members or ESDC include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 Representation of a project may be further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at _project email_.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [`project email`].
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
-## Attribution
+## Attribution [EN]
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)
+
+This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https://github.com/alphagov/code-of-conduct)
+
+---
+<!--markdownlint-disable MD025-->
+# Code de conduite pour le projet [`nom du projet`]
+<!--markdownlint-enable MD025-->
+
+Les contributeurs aux dépôts hébergés dans [`nom du projet`] sont tenus de respecter le Code de conduite du Pacte des contributeurs, et ceux qui travaillent au sein du gouvernement sont également tenus de respecter le Code de valeurs et d'éthique du secteur public.
+
+## Notre engagement
+
+Dans le but de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que collaborateurs et responsables, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tous, quels que soient leur âge, leur taille, leur handicap, leur origine ethnique, leurs caractéristiques sexuelles, leur identité et expression sexuelles, leur niveau d'expérience, leur éducation, leur statut socio-économique, leur nationalité, leur apparence, leur race, leur religion et leur orientation sexuelle et leur identité.
+
+## Nos normes
+
+Exemples de comportements qui contribuent à créer un environnement positif incluent :
+
+* Utiliser un langage accueillant et inclusif
+* Être respectueux des différents points de vue et expériences
+* Accepter gracieusement les critiques constructives
+* Se concentrer sur ce qui est le mieux pour la communauté
+* Faire preuve d'empathie envers les autres membres de la communauté
+
+Voici des exemples de comportements inacceptables de la part des participants :
+
+* L'utilisation d'un langage ou d'images sexualisés et d'une attention sexuelle importunée, ou percées
+* Trollage, commentaires insultants ou méprisants, et attaques personnelles ou politiques
+* Harcèlement public ou privé
+* La publication d'informations privées d'autrui, telles que des informations physiques ou électroniques. adresse, sans autorisation explicite
+* Tout autre comportement qui pourrait raisonnablement être considéré comme inapproprié dans le cadre d'une enquête du contexte professionnel
+
+## Nos responsabilités
+
+Les responsables de la mise à jour du projet ont la responsabilité de clarifier les normes d'acceptabilité du et on s'attend à ce qu'ils prennent des mesures correctives appropriées et équitables en cas de comportement inacceptable.
+
+Les responsables de projet ont le droit et la responsabilité de supprimer, d'éditer ou de rejeter les commentaires, les soumissions (commits), le code, les éditions du wiki, les problèmes et autres contributions qui ne sont pas conformes au présent Code de conduite, ou d'interdire temporairement ou définitivement tout contributeur pour d'autres comportements qu'ils jugent inappropriés, menaçant, offensant ou nuisible.
+
+## Portée
+
+Ce Code de conduite s'applique dans tous les espaces du projet, et il s'applique également lorsque une personne représente le projet ou sa communauté dans les espaces publics.
+Des exemples de représentation d'un projet ou d'une collectivité comprennent l'utilisation d'un représentant officiel de la l'adresse électronique du projet, l'affichage par l'entremise d'un compte officiel de médias sociaux ou le fait d'agir à titre intérimaire en tant que représentant désigné lors d'un événement en ligne ou hors ligne.
+La représentation d'un projet peut être mieux défini et clarifié par les responsables du projet.
+
+## Application de la loi
+
+Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante :[`courriel`].
+Toutes les plaintes feront l'objet d'un examen et d'une enquête et donneront lieu à une réponse qui est jugée nécessaire et appropriée dans les circonstances.
+L'équipe de projet est dans l'obligation de respecter la confidentialité à l'égard du déclarant d'un incident.
+De plus amples détails sur les politiques d'application spécifiques peuvent être affichés séparément.
+
+Les responsables de projet qui ne respectent pas ou n'appliquent pas le Code de conduite en bonne et due formepeuvent faire face à des répercussions temporaires ou permanentes déterminées par d'autres membres de la les membres de la direction du projet.
+
+## Attribution [FR]
+
+Le présent Code de conduite est adapté de la version 1.4 du [Pacte du contributeur][page d'accueil],
+disponible à l'adresse [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+
+[page d'accueil]: https://www.contributor-covenant.org
+
+Pour des réponses aux questions les plus fréquentes concernant ce code de conduite, voir
+[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)
+
+Le présent Code de conduite s'inspire également du " Code de conduite " du [alphaGov](https://github.com/alphagov/code-of-conduct) de GDS.
