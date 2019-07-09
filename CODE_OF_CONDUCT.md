@@ -106,7 +106,7 @@ Ce Code de conduite s'applique dans tous les espaces du projet, et il s'applique
 Des exemples de représentation d'un projet ou d'une collectivité comprennent l'utilisation d'un représentant officiel de la l'adresse électronique du projet, l'affichage par l'entremise d'un compte officiel de médias sociaux ou le fait d'agir à titre intérimaire en tant que représentant désigné lors d'un événement en ligne ou hors ligne.
 La représentation d'un projet peut être mieux défini et clarifié par les responsables du projet.
 
-## Application de la loi
+## Application des règles
 
 Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante :[`courriel`].
 Toutes les plaintes feront l'objet d'un examen et d'une enquête et donneront lieu à une réponse qui est jugée nécessaire et appropriée dans les circonstances.
