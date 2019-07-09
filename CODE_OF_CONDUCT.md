@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct for the [`project_name`] project
 
+([Français](#Code-de-conduite-pour-le-projet-nom-du-projet))
+
 Contributors to repositories hosted in [`project_name`] are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector
 
 ## Values and Ethics Code for the Public Sector
@@ -65,6 +67,8 @@ This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https
 <!--markdownlint-disable MD025-->
 # Code de conduite pour le projet [`nom du projet`]
 <!--markdownlint-enable MD025-->
+
+([English](#Contributor-Covenant-Code-of-Conduct-for-the-projectname-project))
 
 Les contributeurs aux dépôts hébergés dans [`nom du projet`] sont tenus de respecter le Code de conduite du Pacte des contributeurs, et ceux qui travaillent au sein du gouvernement sont également tenus de respecter le Code de valeurs et d'éthique du secteur public.
 
