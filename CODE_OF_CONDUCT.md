@@ -39,7 +39,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project, members or [`department`].
-Examples of representing a project, members or ESDC include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+Examples of representing a project, members or [`department`] include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 Representation of a project may be further defined and clarified by project maintainers.
 
 ## Enforcement
@@ -57,9 +57,6 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 [homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)
 
 This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https://github.com/alphagov/code-of-conduct)
 
@@ -121,8 +118,5 @@ Le présent Code de conduite est adapté de la version 1.4 du [Pacte du contribu
 disponible à l'adresse [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 [page d'accueil]: https://www.contributor-covenant.org
-
-Pour des réponses aux questions les plus fréquentes concernant ce code de conduite, voir
-[https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq)
 
 Le présent Code de conduite s'inspire également du " Code de conduite " du [alphaGov](https://github.com/alphagov/code-of-conduct) de GDS.
