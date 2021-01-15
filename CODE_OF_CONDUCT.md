@@ -99,8 +99,8 @@ Les responsables de projet ont le droit et la responsabilité de supprimer, d'é
 
 ## Portée
 
-Ce Code de conduite s'applique dans tous les espaces du projet, et il s'applique également lorsque une personne représente le projet ou sa communauté dans les espaces publics.
-Des exemples de représentation d'un projet ou d'une collectivité comprennent l'utilisation d'un représentant officiel de la l'adresse électronique du projet, l'affichage par l'entremise d'un compte officiel de médias sociaux ou le fait d'agir à titre intérimaire en tant que représentant désigné lors d'un événement en ligne ou hors ligne.
+Ce Code de conduite s'applique dans tous les espaces du projet, et il s'applique également lorsque une personne représente le projet, sa communauté ou [`département`] dans les espaces publics.
+Des exemples de représentation d'un projet, d'une collectivité ou [`département`] comprennent l'utilisation d'un représentant officiel de la l'adresse électronique du projet, l'affichage par l'entremise d'un compte officiel de médias sociaux ou le fait d'agir à titre intérimaire en tant que représentant désigné lors d'un événement en ligne ou hors ligne.
 La représentation d'un projet peut être mieux défini et clarifié par les responsables du projet.
 
 ## Application des règles
