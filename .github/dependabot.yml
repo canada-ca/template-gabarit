@@ -3,9 +3,17 @@ updates:
 - package-ecosystem: npm
   directory: "/"
   schedule:
-    interval: daily
+    interval: weekly
     time: "11:00"
   open-pull-requests-limit: 99
+  groups:
+    dependencies:
+      applies-to: version-updates
+      patterns:
+        - "*"
+      update-types:
+        - "minor"
+        - "patch"
 - package-ecosystem: github-actions
   directory: "/"
   schedule:
