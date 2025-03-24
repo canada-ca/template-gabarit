@@ -1,11 +1,3 @@
----
-name: General
-about: This a general pull request template to be used for any reason
-title: ''
-labels: ''
-assignees: ''
----
-
 ### What does this MR do?
 
 <!--
