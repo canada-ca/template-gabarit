@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^6.0.0",
     "glob": "^13.0.6",
     "markdown-link-check": "^3.14.2",
     "markdownlint-cli": "^0.49.1"
